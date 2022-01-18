@@ -2,7 +2,7 @@
 
 
 <h2> Introduction 🎲</h2>
-A Game of random dice number
+A Game of random dice number  <a href="https://meetahaldar.github.io/Dice/">Demo</a>
 
 <ul>
   
